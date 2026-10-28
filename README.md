@@ -11,7 +11,6 @@ Cloudi is a cute virtual desktop companion that lives on your screen and reacts 
 * Mini-games and activities
 * Achievements and secrets
 * Optional AI conversations
-* Support for multiple Cloudis
 
 ## Design
 
